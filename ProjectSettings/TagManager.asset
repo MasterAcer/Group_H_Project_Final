@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Spawn Point
+  - Damage Upgrade
+  - Number Shot Upgrade
+  - Ranger Shot Spawn Point
+  - Enemy
+  - Speed Upgrade
+  - jumpTrigger
+  - Wall
+  - Ranger Enemy Shot Spawn Point
+  - Player Arrow
+  - Enemy Arrow
+  - Final Boss Enemy Shot Spawn Point
+  - UpgradeButton
+  - Shot Spawn Point
+  - Game Data
+  - Load Scene
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - Player
+  - Arrow Player
+  - Enemy
+  - Platform
+  - Sword Player
+  - Wall
+  - Sword Enemy
+  - Arrow Enemy
+  - Boss Battle Lock
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 641802143
+    locked: 0
+  - name: Foreground
+    uniqueID: 326843917
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
